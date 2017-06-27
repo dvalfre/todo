@@ -30,6 +30,7 @@ platform :ruby do
   gem 'minitest'
   gem 'psych'
   gem 'racc'
+  gem 'scout_apm'
 end
 
 platforms :jruby do
