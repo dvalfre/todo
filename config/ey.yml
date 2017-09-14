@@ -3,3 +3,4 @@ defaults:
   - .git
   precompile_assets: true
   ignore_gemfile_lock_warning: true
+  experimental_sync_assets: true
